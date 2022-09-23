@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on Laravel CMS with Next js
 - 🌱 I’m currently learning Dart & Flutter 
-- 💬 Talk to me about I have `five years` of experience working as a web application developer. Solid understanding of web development life cycles. As a hardcore PHP and Laravel developer.  I have the experience in build web application, API development, **payment integration **, Ecommerce, Wallet development. I also  I also have extensive knowledge of frontend languages, such as Javascript (eg. vue.js, react.js).
+- 💬 Talk to me about 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/htetoozin?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -27,7 +27,11 @@
 <a href= https://github.com/htetoozin?tab=repositories&q=&type=&language=laravel&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
 <a href= https://github.com/htetoozin?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 
-𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤
+<h2> Experencie <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+
+I have `five years` of experience working as a web application developer. Solid understanding of web development life cycles. As a hardcore PHP and Laravel developer.  I have the experience in build web application, API development, **payment integration **, Ecommerce, Wallet development. I also  I also have extensive knowledge of frontend languages, such as Javascript (eg. vue.js, react.js).
+
+<h2> 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px></h2>  
 
 - React Movie Project  <a href="https://myanflixnet.netlify.app/">View</a>
 - React Music Project <a href="https://hoz-music.netlify.app/">View</a>
@@ -40,13 +44,6 @@
 <a href = 'https://medium.com/@htetoozin09'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://znap.link/htetoozin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/htetoozin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
-<br>
 
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
