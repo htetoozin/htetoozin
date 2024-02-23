@@ -1,7 +1,4 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
-</div>
-<h1 align='center'> Hi < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1>
+
 <p align='center'>
 
 
@@ -16,8 +13,7 @@
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
 
-- 🔭 I’m currently working on Laravel CMS with Next js
-- 🌱 I’m currently learning Dart & Flutter 
+- 🔭 I’m currently working ont the backend with Laravel and ont the frontend with Next js.
 - 💬 Talk to me about 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
@@ -29,13 +25,16 @@
 
 <h2> Experencie <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 
-I have `five years` of experience working as a web application developer. Solid understanding of web development life cycles. As a hardcore PHP and Laravel developer.  I have the experience in build web application, API development, **payment integration **, Ecommerce, Wallet development. I also  I also have extensive knowledge of frontend languages, such as Javascript (eg. vue.js, react.js).
+With a software development career spanning since 2007, I have honed my skills in crafting mobile applications, primarily using SwiftUI. My proficiency extends to cross-platform development where I utilize Flutter to ensure seamless functionality across different platforms. My expertise in Laravel for API and back-end development, coupled with SwiftUI for native iOS development, has empowered me to design high-performing, user-friendly applications. I am committed to continuous learning and always on the lookout for cutting-edge technology. In my spare time, I enjoy exploring React.JS and Next.JS for fun, further broadening my skill set.
+
+I have extensive experience as a web application developer since 2017, with proficiency in Laravel for backend development and React/Next.js for frontend development.
 
 <h2> 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px></h2>  
 
-- React Movie Project  <a href="https://myanflixnet.netlify.app/">View</a>
-- React Music Project <a href="https://hoz-music.netlify.app/">View</a>
-- Myanmar NRC - <a href="https://myanmar-nrc.vercel.app/">View</a>
+- <a href="https://myanflixnet.netlify.app/">React Movie Project </a>
+- <a href="https://hoz-music.netlify.app/">React Music Project </a>
+- <a href="https://myanmar-nrc.vercel.app/">Myanmar NRC </a>
+- <a href="https://htetmyataungmyin.com/">Htet Myat Aung Myin</a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
