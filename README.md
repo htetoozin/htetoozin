@@ -1,12 +1,4 @@
 
-<p align='center'>
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=htetoozin.htetoozin)
-
-</p>
-
 <div size='20px'> Hi! My name is Htet Oo Zin. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
@@ -44,10 +36,6 @@ I have extensive experience as a web application developer since 2017, with prof
 <a href = 'https://znap.link/htetoozin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/htetoozin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-
-![Metrics](https://metrics.lecoq.io/htetoozin?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 <br>
 
