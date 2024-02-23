@@ -13,7 +13,7 @@
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
 
-- 🔭 I’m currently working ont the backend with Laravel and ont the frontend with Next js.
+- 🔭 I’m currently working on the backend with Laravel and ont the frontend with Next js.
 - 💬 Talk to me about 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
