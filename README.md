@@ -5,8 +5,7 @@
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
 
-- 🔭 I’m currently working on the backend with Laravel and ont the frontend with Next js.
-- 💬 Talk to me about 
+I have extensive experience as a web application developer since 2017, with proficiency in Laravel for backend development and React/Next.js for frontend development.
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/htetoozin?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -14,11 +13,6 @@
 <a href= https://github.com/htetoozin?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
 <a href= https://github.com/htetoozin?tab=repositories&q=&type=&language=laravel&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
 <a href= https://github.com/htetoozin?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-
-<h2> Experencie <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-
-
-I have extensive experience as a web application developer since 2017, with proficiency in Laravel for backend development and React/Next.js for frontend development.
 
 <h2> 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px></h2>  
 
