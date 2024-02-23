@@ -25,7 +25,6 @@
 
 <h2> Experencie <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 
-With a software development career spanning since 2007, I have honed my skills in crafting mobile applications, primarily using SwiftUI. My proficiency extends to cross-platform development where I utilize Flutter to ensure seamless functionality across different platforms. My expertise in Laravel for API and back-end development, coupled with SwiftUI for native iOS development, has empowered me to design high-performing, user-friendly applications. I am committed to continuous learning and always on the lookout for cutting-edge technology. In my spare time, I enjoy exploring React.JS and Next.JS for fun, further broadening my skill set.
 
 I have extensive experience as a web application developer since 2017, with proficiency in Laravel for backend development and React/Next.js for frontend development.
 
