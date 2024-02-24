@@ -1,5 +1,5 @@
 
-<div size='20px'> Hi! My name is Htet Oo Zin. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Mingalarbar! My name is Htet Oo Zin. 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
@@ -16,10 +16,10 @@ I have extensive experience as a web application developer since 2017, with prof
 
 <h2> 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px></h2>  
 
-- <a href="https://myanflixnet.netlify.app/">React Movie Project </a>
-- <a href="https://hoz-music.netlify.app/">React Music Project </a>
-- <a href="https://myanmar-nrc.vercel.app/">Myanmar NRC </a>
-- <a href="https://htetmyataungmyin.com/">Htet Myat Aung Myin</a>
+- <a href="https://myanflixnet.netlify.app/" target="_link">React Movie Project </a>
+- <a href="https://hoz-music.netlify.app/" target="_link">React Music Project </a>
+- <a href="https://myanmar-nrc.vercel.app/" target="_link">Myanmar NRC </a>
+- <a href="https://htetmyataungmyin.com/" target="_link">Htet Myat Aung Myin</a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
