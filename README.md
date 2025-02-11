@@ -1,37 +1,38 @@
+# Mingalarbar! 👋 My name is **Htet Oo Zin**
 
-<div size='20px'> Mingalarbar! My name is Htet Oo Zin. 
-</div>
+## 🧑‍💻 About Me
+I am a passionate web application developer with over 7 years of experience (since 2017). I specialize in building scalable applications using **Laravel** for backend development and **React/Next.js** for frontend development.
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+![Code GIF](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif)
 
+---
 
-I have extensive experience as a web application developer since 2017, with proficiency in Laravel for backend development and React/Next.js for frontend development.
+## 🛠️ Skills
+I have expertise in the following technologies:
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/htetoozin?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/htetoozin?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/htetoozin?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
-<a href= https://github.com/htetoozin?tab=repositories&q=&type=&language=laravel&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
-<a href= https://github.com/htetoozin?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+[![React](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg)](https://github.com/htetoozin?tab=repositories&q=&type=&language=reactjs&sort=)  
+[![JavaScript](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg)](https://github.com/htetoozin?tab=repositories&q=&type=&language=javascript&sort=)  
+[![PHP](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg)](https://github.com/htetoozin?tab=repositories&q=&type=&language=php&sort=)  
+[![Laravel](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg)](https://github.com/htetoozin?tab=repositories&q=&type=&language=laravel&sort=)  
+[![MySQL](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg)](https://github.com/htetoozin?tab=repositories&q=&type=&language=mysql&sort=)
 
-<h2> 𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px></h2>  
+---
 
-- <a href="https://myanflixnet.netlify.app/" target="_link">React Movie Project </a>
-- <a href="https://hoz-music.netlify.app/" target="_link">React Music Project </a>
-- <a href="https://myanmar-nrc.vercel.app/" target="_link">Myanmar NRC </a>
-- <a href="https://htetmyataungmyin.com/" target="_link">Htet Myat Aung Myin</a>
+## 🚀 Portfolio
 
+| Project Name              | Description                     | Link                                                                 |
+| ------------------------- | ------------------------------- | -------------------------------------------------------------------- |
+| **React Movie Project**    | A movie browsing application.    | [Live Demo](https://myanflixnet.netlify.app/)                        |
+| **React Music Project**    | A music streaming application.  | [Live Demo](https://hoz-music.netlify.app/)                         |
+| **Myanmar NRC**            | A digital platform for NRC.     | [Live Demo](https://myanmar-nrc.vercel.app/)                         |
+| **Htet Myat Aung Myin**    | Personal portfolio website.     | [Live Demo](https://htetmyataungmyin.com/)                           |
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+---
 
-<a href = 'https://www.linkedin.com/in/htet-oo-zin-024226163'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/https://twitter.com/htetoozin09'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@htetoozin09'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://znap.link/htetoozin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/htetoozin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+## 🌍 Connect with me
 
+Feel free to reach out to me through any of the following platforms:
 
-<br>
-
-<div align='center'><i>Thank you for visiting</i></div>
-
+[![LinkedIn](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg)](https://www.linkedin.com/in/htet-oo-zin-024226163)  
+[![Twitter](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg)](https://www.twitter.com/htetoozin09)  
+[![Medium](https://raw.githubusercontent.com/rahulbanerjee26/github
