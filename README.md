@@ -22,13 +22,15 @@
 
 Feel free to reach out to me through any of the following platforms:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg)](https://www.linkedin.com/in/htet-oo-zin-024226163)  
-[![Twitter](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg)](https://www.twitter.com/htetoozin09)  
-[![Medium](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg)](https://medium.com/@htetoozin09)  
-[![Portfolio](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png)](https://znap.link/htetoozin)  
-[![GitHub](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg)](https://www.github.com/htetoozin)
-
-
+<a href="https://www.linkedin.com/in/htet-oo-zin-024226163">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="32" height="32" style="margin-right: 10px;" />
+</a>
+<a href="https://medium.com/@htetoozin09">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" width="32" height="32" style="margin-right: 10px;" />
+</a>
+<a href="https://znap.link/htetoozin">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" width="32" height="32" style="margin-right: 10px;" />
+</a>
 
 
 
