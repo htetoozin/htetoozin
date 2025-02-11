@@ -1,22 +1,12 @@
-# Mingalarbar! 👋 My name is **Htet Oo Zin**
+## Hi There, 👏 I am Htet Oo Zin!
 
-## 🧑‍💻 About Me
-I am a passionate web application developer with over 7 years of experience (since 2017). I specialize in building scalable applications using **Laravel** for backend development and **React/Next.js** for frontend development.
+>  I've extensive experience as a web application developer since 2017, with proficiency in Laravel, NodeJS for backend development and React/Next.js for frontend development. 
 
-![Code GIF](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif)
 
----
+## 💼 Tech Stack
 
-## 🛠️ Skills
-I have expertise in the following technologies:
-
-[![React](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg)](https://github.com/htetoozin?tab=repositories&q=&type=&language=reactjs&sort=)  
-[![JavaScript](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg)](https://github.com/htetoozin?tab=repositories&q=&type=&language=javascript&sort=)  
-[![PHP](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg)](https://github.com/htetoozin?tab=repositories&q=&type=&language=php&sort=)  
-[![Laravel](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg)](https://github.com/htetoozin?tab=repositories&q=&type=&language=laravel&sort=)  
-[![MySQL](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg)](https://github.com/htetoozin?tab=repositories&q=&type=&language=mysql&sort=)
-
----
+- Backend: Laravel, Express
+- Frontend: ReactJS, Next JS
 
 ## 🚀 Portfolio
 
@@ -27,7 +17,6 @@ I have expertise in the following technologies:
 | **Myanmar NRC**            | A digital platform for NRC.     | [Live Demo](https://myanmar-nrc.vercel.app/)                         |
 | **Htet Myat Aung Myin**    | Personal portfolio website.     | [Live Demo](https://htetmyataungmyin.com/)                           |
 
----
 
 ## 🌍 Connect with me
 
@@ -35,4 +24,13 @@ Feel free to reach out to me through any of the following platforms:
 
 [![LinkedIn](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg)](https://www.linkedin.com/in/htet-oo-zin-024226163)  
 [![Twitter](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg)](https://www.twitter.com/htetoozin09)  
-[![Medium](https://raw.githubusercontent.com/rahulbanerjee26/github
+[![Medium](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg)](https://medium.com/@htetoozin09)  
+[![Portfolio](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png)](https://znap.link/htetoozin)  
+[![GitHub](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg)](https://www.github.com/htetoozin)
+
+
+
+
+
+
+
